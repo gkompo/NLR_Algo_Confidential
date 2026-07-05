@@ -1,0 +1,35 @@
+# LaTeX auxiliary files
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.pdf
+*.blg
+*.bbl
+*.nav
+*.snm
+*.vrb
+*.dvi
+*.ps
+
+# Python cache & build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Raw Data files
+*.parquet
+*.csv
+*.xlsx
+data/
+Desktop/
+quant_data/
+
+# OS/System files
+.DS_Store
+Thumbs.db
